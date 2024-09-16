@@ -1,5 +1,11 @@
-Python 3.12.4
 Pandas
 Numpy
 Seaborn
 Matplotlib
+Streamlit
+flask_jwt_extended
+geopy
+flask
+flask_cors
+pyjanitor
+scikit-learn
